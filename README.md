@@ -22,7 +22,10 @@ I design and maintain cloud infrastructure, CI/CD pipelines, and container platf
 
 I run a homelab, play tabletop RPGs (Vampire: The Masquerade, Coriolis), and occasionally DJ with Traktor.
 
+## Open Source
+
+I keep a few public repos — a self-hosted Matrix stack guide, a DevOps learning bootcamp, a Traktor controller mapping. Check the pinned repos below.
+
 ## Get in Touch
 
-[![Email](https://img.shields.io/badge/-alexios.mavronas@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexios.mavronas@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Alexios_Mavronas-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexiosmavronas/)
